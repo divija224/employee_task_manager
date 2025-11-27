@@ -9,7 +9,7 @@ The Employee Task Manager is a full-stack application designed to manage employe
 #### [API Link](https://employee-task-manager-2un6.onrender.com)
 ---
 Video
-<img src="https://github.com/user-attachments/assets/6bcd5dc0-b295-42b1-8498-75c5283dcad8" />
+<img src="https://github.com/user-attachments/assets/38b81b68-790e-42ac-8086-90433e92e298"/>
 
 ---
 
