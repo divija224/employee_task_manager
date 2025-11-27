@@ -37,8 +37,8 @@ function App(){
       <section className="grid">
         <div className="card">
           <h2>Employees</h2>
-          <ul>
-            {employees.map(e => <li key={e._id}>{e.name} <small>{e.position}</small></li>)}
+          <ul >
+            {employees.map(e => <li className="emp" key={e._id}>{e.name} <small>{e.position}</small></li>)}
           </ul>
         </div>
 

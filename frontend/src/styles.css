@@ -60,7 +60,19 @@ body::after{
 										radial-gradient(circle at 78% 82%, rgba(206,236,255,0.28), transparent 16%);
 	mix-blend-mode: screen;
 }
-
+.emp{
+	display: block;
+	/* limit width so auto margins can center the item */
+	max-width: 520px;
+	width: calc(100% - 2rem);
+	margin: 0.7rem auto; /* vertical spacing + horizontal auto-centering */
+	list-style: none;
+	border: 1px solid #f1f3f5;
+	box-shadow: 0 6px 18px rgba(7,22,25,0.06);
+	border-radius: 8px;
+	padding: 12px 14px;
+	background: rgba(255,255,255,0.9);
+}
 .card h2{margin:0 0 8px 0;font-size:1.05rem;color:var(--opal-deep)}
 
 .tasks{list-style:none;padding:0;margin:0}
