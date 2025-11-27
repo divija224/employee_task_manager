@@ -8,6 +8,10 @@ The Employee Task Manager is a full-stack application designed to manage employe
 #### [https://employee-task-manager-wine.vercel.app/](https://employee-task-manager-wine.vercel.app/)
 #### [API Link](https://employee-task-manager-2un6.onrender.com)
 ---
+Video
+<img src="https://github.com/user-attachments/assets/6bcd5dc0-b295-42b1-8498-75c5283dcad8" />
+
+---
 
 ## Features
 - **Frontend**: React with modern styling and responsive design.
